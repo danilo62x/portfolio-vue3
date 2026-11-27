@@ -6,8 +6,6 @@
 
 A creative studio website with a sales back office, built with Vue 3.5, TypeScript, Vite 6 and Tailwind CSS v4. The public side shows the work: case studies with the challenge, what was done and the numbers that moved, a service catalogue with deliverables and pricing, an about page with the team and a timeline, a contact form and a four-step brief that turns a visitor into a lead. Behind the login sits the commercial side: a lead funnel you drag between stages, proposals with an item editor and discount, and CRUD for case studies, services and testimonials. Everything runs on mock data persisted to `localStorage`, so there is no backend to set up.
 
-Live preview: https://template.dev.br/preview/portfolio-vue3/
-
 ## Pages included
 
 16 screens, covering the public site and the authenticated area:
@@ -95,11 +93,7 @@ The same system exists in five stacks, all sharing the screens and the visual id
 - Laravel 11 + Blade: https://github.com/danilo62x/portfolio-laravel
 - Static HTML: https://github.com/danilo62x/portfolio-html
 
-The full catalog of free and paid templates is at https://template.dev.br
-
-## Support this project
-
-This template is free and MIT licensed. If it saves you time, you can support the work with a donation at https://template.dev.br/doar?template=portfolio-vue3
+More free templates (admin dashboards, vertical systems and Flutter apps): https://github.com/danilo62x?tab=repositories
 
 ## License
 

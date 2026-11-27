@@ -6,8 +6,6 @@
 
 Site de estúdio criativo com um back office comercial, feito em Vue 3.5, TypeScript, Vite 6 e Tailwind CSS v4. O lado público mostra o trabalho: cases com o desafio, o que foi feito e os números que mudaram, um catálogo de serviços com entregáveis e preço, uma página sobre com time e linha do tempo, formulário de contato e um briefing em quatro etapas que transforma o visitante em lead. Depois do login fica o lado comercial: um funil de leads que você arrasta entre estágios, propostas com editor de itens e desconto, e CRUD de cases, serviços e depoimentos. Tudo roda com dados fictícios persistidos no `localStorage`, sem backend para configurar.
 
-Demonstração ao vivo: https://template.dev.br/preview/portfolio-vue3/
-
 ## Páginas incluídas
 
 16 telas, cobrindo o site público e a área autenticada:
@@ -95,11 +93,7 @@ O mesmo sistema existe em cinco stacks, todas com as mesmas telas e a mesma iden
 - Laravel 11 + Blade: https://github.com/danilo62x/portfolio-laravel
 - Static HTML: https://github.com/danilo62x/portfolio-html
 
-O catálogo completo de templates gratuitos e pagos está em https://template.dev.br
-
-## Apoie o projeto
-
-Este template é gratuito e licenciado sob MIT. Se ele te poupar tempo, você pode apoiar o trabalho com uma doação em https://template.dev.br/doar?template=portfolio-vue3
+Mais templates gratuitos (painéis admin, sistemas por segmento e apps Flutter): https://github.com/danilo62x?tab=repositories
 
 ## Licença
 
